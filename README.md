@@ -9,7 +9,6 @@ I have experience with Front End Frameworks, I started from the backbone and now
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [vinhweb.com](http://vinhweb.com)
 * ✉️  You can contact me at [vinhnguyenhubt@gmail.com](mailto:vinhnguyenhubt@gmail.com)
-* 🚀  I'm currently working on [BdsReal.com](http:///bdsreal.com)
 * 🧠  I'm learning deeply about Laravel, Nodejs
 * 🤝  I'm open to collaborating on interesting projects
 
