@@ -4,12 +4,9 @@ Hi 👋 My name is Vinh Nguyen
 Fullstack Web developer
 -----------------------
 
-I have experience with Front End Frameworks, I started from the backbone and now I work mostly with modern frameworks like React or Vue
-
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [profile.vinhweb.com](https://profile.vinhweb.com/)
 * ✉️  You can contact me at [vinhnguyenhubt@gmail.com](mailto:vinhnguyenhubt@gmail.com)
-* 🧠  I'm learning deeply about backend side, algorithm, data structure 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
