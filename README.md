@@ -4,6 +4,8 @@ Hi 👋 My name is Vinh Nguyen
 Fullstack Web developer
 -----------------------
 
+LAMP/MERN/Fullstack Python
+
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [profile.vinhweb.com](https://profile.vinhweb.com/)
 * ✉️  You can contact me at [vinhnguyenhubt@gmail.com](mailto:vinhnguyenhubt@gmail.com)
