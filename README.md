@@ -7,8 +7,6 @@ I have been building personal/professional web projects for more than 4 years. C
 * ✉️  You can contact me at [vinhnguyenhubt@gmail.com](mailto:vinhnguyenhubt@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-[![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhweb)](https://github.com/vinhweb/github-readme-stats)
-
 ### Skills
 
 <p align="left">
